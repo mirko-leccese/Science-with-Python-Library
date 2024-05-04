@@ -11,6 +11,7 @@ matplotlib = "*"
 numpy = "*"
 scienceplots = "*"
 torch = "*"
+jupyter-contrib-nbextensions = "*"
 
 [dev-packages]
 
